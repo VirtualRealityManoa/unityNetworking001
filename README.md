@@ -7,4 +7,8 @@ https://unity3d.com/learn/tutorials/topics/multiplayer-networking
 
 HOMEWORK:
 
-Please go through 1-6 by Friday: 2017_1_27
+Please go through 7-12 by Friday: 2017_02_03
+
+DONE:
+
+Please go through 1-6 by Friday: 2017_01_27
